@@ -7,7 +7,7 @@ define variable strdateformate as character.
 strdateformat = session:date-format.
 session:date-format = "mdy".
 batchrun = yes.
-{gprun.i ""popomt.p""}
+{gprun.i ""standard.p""}
 batchrun = no.
 session:date-format = strdateformat.
 hide message
